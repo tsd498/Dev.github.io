@@ -1,0 +1,9 @@
+ fa-facebook-square
+ fa-twitter-square 
+ fa-linkedin-square
+ fa-shopping-cart
+ fa-desktop
+ fa-camera
+ fa-microphone
+ .fa-support
+ fa-copyright
